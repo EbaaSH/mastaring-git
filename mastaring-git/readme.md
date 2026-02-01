@@ -1,4 +1,4 @@
-## Heyoo every one
+## Welcome to Git
 
 - komay here
 
